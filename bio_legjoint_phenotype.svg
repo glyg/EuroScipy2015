@@ -11,15 +11,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="860"
-   height="720"
+   height="620"
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel r"
-   sodipodi:docname="legjoint_bio.svg"
+   sodipodi:docname="bio_legjoint_phenotype.svg"
    inkscape:export-filename="/home/guillaume/Notebooks/Pyconfr/legjoint_bio.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"
-   viewBox="0 0 859.99999 720">
+   viewBox="0 0 859.99999 620">
   <defs
      id="defs4">
     <clipPath
@@ -8028,9 +8028,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0316667"
-     inkscape:cx="432.5814"
-     inkscape:cy="291.95428"
+     inkscape:zoom="0.72949852"
+     inkscape:cx="339.80126"
+     inkscape:cy="283.77613"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -8042,8 +8042,8 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1053"
-     inkscape:window-x="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -8068,7 +8068,7 @@
      id="layer3"
      inkscape:label="Calque0"
      style="display:inline"
-     transform="translate(-156.32469,179.67431)">
+     transform="translate(-156.32469,79.67431)">
     <g
        transform="matrix(2.390182,0,0,2.390182,325.53487,-1011.7612)"
        id="g42225"
@@ -8078,7 +8078,7 @@
        id="g45567"
        style="display:inline;fill:#211e1e;fill-opacity:1;stroke-width:0.55783755" />
     <g
-       transform="matrix(1.6280992,0,0,1.6280992,-184.59837,-419.15107)"
+       transform="matrix(1.6280992,0,0,1.6280992,-184.59837,-349.15107)"
        id="g73929"
        style="stroke-width:0.61421311">
       <g
@@ -8160,11 +8160,11 @@
         <text
            sodipodi:linespacing="122%"
            id="text37364"
-           y="382.42761"
+           y="398.34009"
            x="86.369003"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.851614px;line-height:122.00000286%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.79562163"
            xml:space="preserve"><tspan
-             y="382.42761"
+             y="398.34009"
              x="86.369003"
              id="tspan37366"
              sodipodi:role="line"
@@ -8173,13 +8173,13 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.851614px;line-height:122.00000286%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.79562163"
            x="426.36893"
-           y="382.42761"
+           y="398.34009"
            id="text37368"
            sodipodi:linespacing="122%"><tspan
              sodipodi:role="line"
              id="tspan37370"
              x="426.36893"
-             y="382.42761"
+             y="398.34009"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.851614px;font-family:Arial;-inkscape-font-specification:Arial;fill:#4d4d4d;stroke-width:0.79562163">Without apoptosis</tspan></text>
       </g>
       <rect
@@ -8215,7 +8215,7 @@
        id="g74484" />
     <g
        id="g74822"
-       transform="matrix(1.2917152,0,0,1.2917152,-875.32061,-42.22009)"
+       transform="matrix(1.2917152,0,0,1.2917152,-875.32061,-32.22009)"
        style="stroke-width:0.7741645">
       <g
          style="display:inline;fill:#211e1e;fill-opacity:1;stroke-width:0.40402684"
@@ -9539,7 +9539,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-147.4873,111.59592)"
+     transform="translate(-147.4873,11.59592)"
      style="display:none">
     <g
        id="g10940"
@@ -9926,9 +9926,9 @@
      id="layer2"
      inkscape:label="zoom"
      style="display:inline"
-     transform="translate(-156.32469,179.67431)">
+     transform="translate(-156.32469,79.67431)">
     <g
-       transform="matrix(1.6009379,0,0,1.6009379,643.40117,-88.78544)"
+       transform="matrix(1.6009379,0,0,1.6009379,643.40117,-78.78544)"
        id="g37680">
       <g
          transform="matrix(0.70491789,0,0,-0.70491789,-5.6489561,520.93245)"
@@ -10423,47 +10423,47 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:122.00000286%;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="671.25092"
-       y="905.54877"
+       x="775.43207"
+       y="534.46509"
        id="text14593"
        sodipodi:linespacing="122%"><tspan
          sodipodi:role="line"
          id="tspan14591"
-         x="671.25092"
-         y="905.54877">Gettings, Monier <tspan
+         x="775.43207"
+         y="534.46509">Gettings, Monier <tspan
    style="font-style:italic;font-size:13.33333302px"
    id="tspan14595">et al.,</tspan> Nature, (2015)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666794px;line-height:122.00000286%;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.99999934;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666794px;line-height:122.00000286%;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.99999934;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="183.67366"
-       y="192.14127"
+       y="230.14127"
        id="text74882"
        sodipodi:linespacing="122%"><tspan
          sodipodi:role="line"
          id="tspan74880"
          x="183.67366"
-         y="192.14127">Adhesion &amp; Actin dynamics</tspan></text>
+         y="230.14127">Adhesion &amp; Actin dynamics</tspan></text>
     <text
        sodipodi:linespacing="122%"
        id="text74932"
-       y="192.14127"
+       y="230.14127"
        x="737.67365"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666794px;line-height:122.00000286%;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.99999934;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666794px;line-height:122.00000286%;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:0.99999934;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="192.14127"
+         y="230.14127"
          x="737.67365"
          id="tspan74930"
          sodipodi:role="line">Apoptotic diving</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 544.26243,-113.54817 V 103.03898"
+       d="M 544.26243,-43.54817 V 173.03898"
        id="path74934"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path74936"
-       d="M 704.26243,264.45183 V 481.03898"
+       d="M 704.26243,274.45183 V 491.03898"
        style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
